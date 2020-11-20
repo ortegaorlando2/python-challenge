@@ -1,0 +1,10 @@
+EL CHAPARRO COLORADO LLC
+Below is a balance report for the period:
+**Jan-2010 to Feb-2017**
+-------------------------
+Number of months in dataset= 86 
+Net total amount profits/losses over the period  $38382578 
+Average of profits/losses over the period=  $-2315.12 
+The greatest increase in profits was  ($1926159) in Feb-2012 
+The greatest decrease in profits was  ($-2196167) in Sep-2013 
+
