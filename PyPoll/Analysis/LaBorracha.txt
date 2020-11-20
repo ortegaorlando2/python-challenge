@@ -1,0 +1,19 @@
+La Borracha State Election Results
+
+Total number of votes= 3521001 
+Candidates: 
+ --------------------------------------------- 
+Correy & Khan & Li & O'Tooley & 
+ 
+ Final Vote Tally 
+ ---------------------------------------- 
+ Candidate__Votes__ Percent
+ ---------------------------------------- 
+Correy__704200__20.00% 
+Khan__2218230__63.00% 
+Li__492940__14.00% 
+O'Tooley__105630__3.00% 
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+The winner is: Khan  with 63.00% of 3521001 votes casted 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
